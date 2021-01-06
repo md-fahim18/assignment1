@@ -1,0 +1,232 @@
+body{
+margin: 0px;
+}
+.header
+{
+    float:right;
+    margin-right: 25px;
+   
+}
+.head{
+    margin-bottom: 30px;
+}
+
+.text
+{
+    width: 40%;
+    float: left;
+    /* margin-left: 3%; */
+    margin-right: 10%;
+   
+}
+.first-section
+{
+    height: 500px;
+    
+    /* background-color: red; */
+    margin: 4%;
+    margin-top: 2%;
+    padding: 2%;
+}
+.image
+{
+    width: 80%;
+}
+.second-section
+{
+    height: 500px;
+    /* background-color: red; */
+    margin: 4%;
+    padding: 2%;
+}
+.button
+{
+    text-decoration: none;
+    /* border: 1px solid red; */
+    background-color: rosybrown;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgba(255, 122, 122, 0.644),tomato);
+}
+.third-section
+{
+    height: 600px;
+    background-color: lightgray;
+    margin: 4%;
+    padding: 2%;
+}
+
+.heading
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 60px;
+}
+.latest
+{
+    color: rgba(174, 188, 143, 0.932) ;
+}
+.pics
+{
+    width: 95%;
+    height: 200px;
+}
+.box-1,.box-2,.box-3
+{
+    float: left;
+    width: 20%;
+    /* border: 2px solid black; */
+    height: 300px;
+    
+    box-shadow: 10px 20px 40px #808080;
+    border-radius: 5px;
+    /* height: 80%; */
+    background-color: white;
+    padding: 2%;
+    
+}
+.box-1
+{
+    
+    margin-left: 10%;
+    margin-right: 4%;
+}
+.box-2{
+    margin-right: 4%;
+}
+.fourth-section
+{
+    height: 350px;
+    /* background-color: red; */
+    margin: 4%;
+    padding: 2%;
+    
+
+}
+.work-inquiry
+{
+    /* text-align: center; */
+    background-image: url("images/work.png");
+    background-size: contain;
+    height: 200px;
+    width: 500px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-left: 30%;
+}
+.first-para
+{
+  float: left;
+  margin-top: 38px;
+  padding: 2%;
+  color: white;
+  font-style: oblique;
+  font-weight: 700;
+
+}
+.second-para
+{
+    float: right;
+    text-align: right;
+    margin-top: 37px;
+    padding: 2%;
+    margin-right: 10px;
+    background-color: rgba(188, 143, 143, 0.76);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgba(233, 122, 255, 0),rgba(255, 71, 71, 0));
+       
+}
+.stay-connected
+{
+    text-align: center;
+}
+.hello-design
+{
+    text-align: center;
+}
+.icons
+{
+    width: 3%;
+    margin: 1%;
+    
+}
+.img-icon
+{
+    margin-left: 46%;
+}
+
+.extra-section
+{
+    height: 600px;
+  
+}
+.doing-what
+{
+    text-align: center;
+    text-shadow: cadetblue;
+    color: coral;
+}
+.web-dev
+{
+ 
+   float: left;
+   margin-bottom: 10px;
+    width: 40%;
+    height: 150px;
+    margin: 3%;
+    text-align: center;
+    box-shadow: 10px 20px 40px #808080;
+    border-radius: 5px;
+  
+}
+    
+
+.web-design
+{
+    
+    float: left;
+   margin-bottom: 10px;
+    width: 40%;
+    height: 150px;
+    margin: 3%;
+    text-align: center;
+    box-shadow: 10px 20px 40px #808080;
+    border-radius: 5px;
+}
+.responsive-design
+{
+   
+    float: left;
+   margin-bottom: 10px;
+    width: 40%;
+    height: 150px;
+    margin: 3%;
+    text-align: center;
+    box-shadow: 10px 20px 40px #808080;
+    border-radius: 5px;
+}
+
+.support
+{
+  
+    float: left;
+   margin-bottom: 10px;
+    width: 40%;
+    height: 150px;
+    margin: 3%;
+    text-align: center;
+    box-shadow: 10px 20px 40px #808080;
+    border-radius: 5px;
+
+}
+footer
+{
+    text-align: center;
+    color: lightslategrey;
+}
